@@ -16,7 +16,7 @@ github.com
 
   `./firstime.tcl myFIM.conf <password>`
   
-*Run the update.tcl script to determine if pre-determined files have been modified.*
+*Run the update.tcl script to determine if any files have been modified.*
 
   `./update.tcl myFIM.conf <password>`
   
