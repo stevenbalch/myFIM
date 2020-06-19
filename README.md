@@ -10,12 +10,12 @@ github.com
 - md5sum
 
 ## Usage:
-Edit myFIM.conf for customization
+*Edit myFIM.conf for customization*
 
-Run the firstime.tcl script to collect a baseline of selected files to monitor.
-./firstime.tcl myFIM.conf <password>
+*Run the firstime.tcl script to collect a baseline of selected files to monitor.*
+'./firstime.tcl myFIM.conf <password>'
 
-Run the update.tcl script to determine if pre-determined files have been modified.
-./update.tcl myFIM.conf <password>
+*Run the update.tcl script to determine if pre-determined files have been modified.*
+'./update.tcl myFIM.conf <password>'
   
-myFIM will report any attribute, ownership, and md5 changes to files.
+*myFIM will report any attribute, ownership, and md5 changes to files.*
