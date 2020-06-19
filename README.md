@@ -5,9 +5,8 @@ Open Source File Integrity Monitor (FIM) for Linux based systems
 github.com
 
 ## Requirements:
-- tclsh
-- crypt
-- md5sum
+- tclsh `apt install tcl`
+- crypt `apt install mcrypt`
 
 ## Usage:
 *Edit myFIM.conf for customization*
