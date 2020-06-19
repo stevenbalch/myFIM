@@ -1,15 +1,15 @@
 # myFIM
 Open Source File Integrity Monitor (FIM) for Linux based systems
 
-Supported Sites
+## Supported Sites:
 github.com
 
-Requirements:
-tclsh
-crypt
-md5sum
+## Requirements:
+- tclsh
+- crypt
+- md5sum
 
-Usage:
+## Usage:
 Edit myFIM.conf for customization
 
 Run the firstime.tcl script to collect a baseline of selected files to monitor.
