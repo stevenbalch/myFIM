@@ -1,5 +1,5 @@
 # myFIM
-Open Source File Integrity Monitor (FIM) for Linux based systems
+Open Source File Integrity Monitor (FIM) for Linux based systems.
 
 ## Supported Sites:
 github.com
@@ -9,7 +9,7 @@ github.com
 - crypt `apt install mcrypt`
 
 ## Usage:
-*Edit myFIM.conf for customization and also make sure all file permissions are setup correctly*
+*Edit myFIM.conf for customization and also make sure all file permissions are setup correctly.*
 
 *Run the firstime.tcl script to collect a baseline of selected files to monitor.*
 
