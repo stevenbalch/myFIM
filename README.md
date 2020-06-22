@@ -9,7 +9,7 @@ github.com
 - crypt `apt install mcrypt`
 
 ## Usage:
-*Edit myFIM.conf for customization*
+*Edit myFIM.conf for customization and also make sure all file permission are setup correctly*
 
 *Run the firstime.tcl script to collect a baseline of selected files to monitor.*
 
